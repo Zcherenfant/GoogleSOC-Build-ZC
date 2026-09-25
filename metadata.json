@@ -1,0 +1,6 @@
+{
+  "name": "OpenSOC Studio",
+  "description": "Browser-based hands-on SOC Analyst training platform with in-memory SIEM, KQL queries, telemetry analysis, and an AI Shift Lead.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
